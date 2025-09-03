@@ -10,6 +10,9 @@ devops
     <title>Sample HTML Page</title>
     <style>
         body {
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/URL_example.png" 
+         alt="Example URL Image" 
+         width="400">
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f4f4f9;
