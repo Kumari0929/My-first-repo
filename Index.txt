@@ -2,3 +2,63 @@ kumari
 arp
 cloud
 devops
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample HTML Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 8px;
+        }
+        button:hover {
+            background: #45a049;
+        }
+        footer {
+            margin-top: 30px;
+            padding: 15px;
+            background: #222;
+            color: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        🌐 My First HTML Program
+    </header>
+
+    <section>
+        <h1>Welcome!</h1>
+        <p>This is a simple HTML page with CSS styling.</p>
+        <button onclick="alert('Hello! You clicked the button!')">Click Me</button>
+    </section>
+
+    <footer>
+        &copy; 2025 My Website | Built with ❤️ using HTML & CSS
+    </footer>
+
+</body>
+</html>
